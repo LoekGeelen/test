@@ -32,17 +32,6 @@ body {
 </form>
 
 
-<h2>HTML Image</h2>
-<img src="Error security.PNG" alt="photo" width="600" height="200">
-
-<h2>HTML Iframes</h2>
-<p>You can use the height and width attributes to specify the size of the iframe:</p>
-
-<iframe src="https://jsfiddle.net/loekgeelen/f4dcp9sh/42/" height="200" width="300" title="Iframe Example"></iframe>
-
-<p>&#128512;</p>
-
-
 <head>
 <html>
 
