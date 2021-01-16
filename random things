@@ -2,35 +2,12 @@
 <html>
 <head>
 <title>Page Title</title>
-<style>
-body {
-  text-align: center;
-  color: black;
-  font-family:  Arial, Helvetica, sans-serif;
-  background-color: white;
-</style>
 </head>
 <body>
 
-<h1>random things</h1>
-<p>The date is:</p>
-<div>
-    <label>
-        Datum <input type="date" name="datum">
-    </label>
-</div>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
 
-<p>Do you like this website?<p>
-
-<form action="/action_page.php">
-  <select name="choice" id="choice">
-    <option value="1">Yes!</option>
-    <option value="2">Of course!</option>
-  </select>
-  <br><br>
-  <input type="submit" value="Submit">
-</form>
-
-<head>
-<html>
+</body>
+</html>
 
